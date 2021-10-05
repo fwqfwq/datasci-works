@@ -1,7 +1,8 @@
-# datasci-works
+# Data Science - Works
 
-Works and practices for Machine Learning & Deep Learning:   
+My training works and practices for Machine Learning & Deep Learning on several Kaggle datasets.    
   
+Including skills:  
 Linear Regression,   
 Logistic Regression,   
 Random Forests,  
